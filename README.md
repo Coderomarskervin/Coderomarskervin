@@ -1,12 +1,10 @@
 ### Hi there 👋 Welcome! 😊
 
-###### I’m currently working on 
-###### I’m currently learning the basics on how to become a coding genius! 🚀
-###### I’m looking to collaborate on ...
-###### I’m looking for help with ...
-###### Ask me about everything and everything. 😉
-###### How to reach me: ...
-###### Fun fact: I'm pretty good at hair braiding 🫡
+###### I’m currently working on a personal portfolio website and a couple of freelance design projects
+###### I’m currently learning JavaScript and diving deeper into React Native
+###### I’m looking to collaborate on open source projects that focus on mental health or education
+###### I’m looking for help with optimizing performance in larger React applications
+
 
 
 <!--
